@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: darkolivegreen;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -43,7 +43,8 @@
 border: 0.1vw solid white;
 padding: 3vw;
 border-radius: 1%;
-  
+  background: #282c34;
+
 }
 
 form {
@@ -63,6 +64,8 @@ li {
     border: 1px solid white;
     margin-bottom: 5px;
   list-style: none;
+    background-color: darkolivegreen;
+
 }
 
 
@@ -88,5 +91,11 @@ button:hover {
 input {
   padding: 1vw;
 
+}
+
+h1 {
+  background: #282c34;
+  padding: 2vw 5vw;
+  border: 0.1vw solid white;
 }
 
