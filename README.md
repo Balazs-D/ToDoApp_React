@@ -1,10 +1,15 @@
 # TO DO Application 
-## Created with React.
 
+## Used techologies
+
+* React
+* CSS
+
+## Description
+
+A very simple application to create a to do list. 
 
 ## Preview
 ![Screenshot](/preview/screenshot.png)
 
-## Story
-
-This is a very first application which i created with React. 
+Go to [app](https://balazs-d.github.io/ToDoApp_React/).
