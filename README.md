@@ -3,7 +3,7 @@
 
 
 ## Preview
-!(/DCI/lord-of-the-scripts/react/react-todo/src/screenshot.png)
+![] (/DCI/lord-of-the-scripts/react/react-todo/src/screenshot.png)
 
 ## Story
 
