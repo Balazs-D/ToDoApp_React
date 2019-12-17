@@ -36,7 +36,7 @@ export default class Todo extends Component {
         <Item items={this.state.items}/>
 
         <form onSubmit={this.handleSubmit}>
-          <input placeholder="Type"
+          <input placeholder="Type something ..."
             onChange={this.handleChange}
             type="text"
             id="todo-item"
